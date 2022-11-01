@@ -1,0 +1,5 @@
+frequency modeling
+feature engineering based on insurance data
+boson distrubution, inverse gamma
+frequecy encoding/one hot encoding
+
